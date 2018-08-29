@@ -1,2 +1,2 @@
-# jfreck
-minilab
+# Justin Freck's Github Page!
+so pretty
