@@ -1,5 +1,7 @@
 For this project, I decided to continue my theme from project 1 and look at the age of properties in Baltimore. I have displayed here a gif showing the oldest building year in each area of a hex grid as well as the buildings in each year range. Together, the images show urban development in the city, highlighting areas with modern buildings and areas with older ones. Some trends to notice are that many of the oldest buildings are found near the city center and the newest are most common along the waterfront in the harbor.
 
+#### Building Age in Baltimore
+
 ![project2gif](project2gif.gif)
 
 **Steps to completion**
