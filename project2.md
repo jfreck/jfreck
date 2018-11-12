@@ -11,6 +11,7 @@ For this project, I decided to continue my theme from project 1 and look at the 
 * Create centroids and hex grid (600 meters)
 * Join Attributes by Location (Summary) - join centroids to hex grid using year_build min.
 * Take each hex and display them in 8 categories, with building polygons for each year range showing up as well.
+* Add Stamen Toner Basemap and Baltimore City Border shapefile.
 * In map view, add a textbox with the year range, then export as an image 9 times, progressively adding each category into each layer. Adding building shape layer parts was done by filtering the layer, each time changing the following expression to match the desired year range: "year_build <= YEAR"
 * Combine the images together into an animated gif (I used GIMP).
 
