@@ -4,6 +4,7 @@ For this project, I decided to continue my theme from project 1 and look at the 
 
 ![Building Age in Baltimore GIF]
 (jfreck.github.io/project2gif.gif)
+
 **Steps to completion**
 
 • Property polygons queried to only show year_build and usegroup "select objectid, year_build, usegroup, ST_Buffer(GEOMETRY, 0) from property2 where year_build>0"
