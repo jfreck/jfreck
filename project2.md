@@ -7,8 +7,10 @@ For this project, I decided to continue my theme from project 1 and look at the 
 ![project2gif](project2gif.gif)
 
 **Steps to completion**
+* Add Property Shapefile.
 * Property polygons queried to only show year_build and usegroup "select objectid, year_build, usegroup, ST_Buffer(GEOMETRY, 0) from property2 where year_build>0"
-* Create centroids and hex grid (600 meters)
+* Create centroids of properties.
+* Create hex grid (600 meters).
 * Join Attributes by Location (Summary) - join centroids to hex grid using year_build min.
 * Take each hex and display them in 8 categories, with building polygons for each year range showing up as well.
 * Add Stamen Toner Basemap and Baltimore City Border shapefile.
