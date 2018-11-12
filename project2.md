@@ -18,7 +18,7 @@ I was easily able to create a very nice gif without any python whatsoever, and I
 
 However, in order to perform a small amount of python in this project, I did change the color of the building shape layer to red using python. This probably doesn't count, but I couldn't get anything else to work, and I don't know enough about python to troubleshoot anything. I think I could have filtered the building layer using python, but I could not figure out how to change the sample code I found in the "developer cookbook" because I don't know what any of the code means or what it does. I have provided below the code I used to change the color, as well as the sample code I would have liked to use, in hopes that you might confirm it's potential use and that it is indeed what I think it is. Even if it is, it was much easier to just do it in the qgis console rather than bother with python, but I understand that is not the nature of the assignment.
 
-**Changing Building Shape Layer to Red (What I did)**
+**Changing Building Shape Layer to Red** (What I did)
 ```Python
 layer = iface.activeLayer()
 renderer = layer.renderer()
