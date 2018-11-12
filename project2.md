@@ -6,7 +6,6 @@ For this project, I decided to continue my theme from project 1 and look at the 
 (jfreck.github.io/project2gif.gif)
 
 **Steps to completion**
-
 * Property polygons queried to only show year_build and usegroup "select objectid, year_build, usegroup, ST_Buffer(GEOMETRY, 0) from property2 where year_build>0"
 * Create centroids and hex grid (600 meters)
 * Join Attributes by Location (Summary) - join centroids to hex grid using year_build min.
