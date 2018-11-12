@@ -1,3 +1,5 @@
+***Project 2: Building Age in Baltimore***
+
 For this project, I decided to continue my theme from project 1 and look at the age of properties in Baltimore. I have displayed here a gif showing the oldest building year in each area of a hex grid as well as the buildings in each year range. Together, the images show urban development in the city, highlighting areas with modern buildings and areas with older ones. Some trends to notice are that many of the oldest buildings are found near the city center and the newest are most common along the waterfront in the harbor.
 
 #### Building Age in Baltimore
@@ -16,7 +18,7 @@ I was easily able to create a very nice gif without any python whatsoever, and I
 
 However, in order to perform a small amount of python in this project, I did change the color of the building shape layer to red using python. This probably doesn't count, but I couldn't get anything else to work, and I don't know enough about python to troubleshoot anything. I think I could have filtered the building layer using python, but I could not figure out how to change the sample code I found in the "developer cookbook" because I don't know what any of the code means or what it does. I have provided below the code I used to change the color, as well as the sample code I would have liked to use, in hopes that you might confirm it's potential use and that it is indeed what I think it is. Even if it is, it was much easier to just do it in the qgis console rather than bother with python, but I understand that is not the nature of the assignment.
 
-Changing Building Shape Layer to Red (What I did)
+**Changing Building Shape Layer to Red (What I did)**
 ```Python
 layer = iface.activeLayer()
 renderer = layer.renderer()
@@ -27,7 +29,7 @@ layer.triggerRepaint()
 iface.layerTreeView().refreshLayerSymbology(layer.id())
 ```
 
-Sample Code for Filtering by Expression (What I would have liked to do, but perhaps would have been too complex)
+**Sample Code for Filtering by Expression** (What I would have liked to do, but perhaps would have been too complex)
 ```python
 def where(layer, exp):
   print "Where"
