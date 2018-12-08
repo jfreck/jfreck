@@ -1,5 +1,10 @@
 ---
 title: Project 1
+feature_image: "Project1Feature.png"
+feature_text: |
+  ## Project 1
+  Average Building Age in Baltimore
+  
 ---
 
 ***Average Building Age in Baltimore by Hex-grid***
