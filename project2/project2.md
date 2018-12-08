@@ -1,5 +1,5 @@
 ---
-title: Project 2: Building Age in Baltimore
+title: Project 2
 ---
 
 ***Further Examining Building Age and Urban Development in Baltimore***
