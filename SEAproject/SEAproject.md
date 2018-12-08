@@ -10,7 +10,7 @@ This study verified the reliability of three different MODIS/Aqua satellite base
 
 ### Accompanying Maps
 
-Below are the maps I created to show the difference between satellite values and in-situ values we analyzed.
+Below are the maps I created to show the difference between satellite values and in-situ values we analyzed. Each symbol represents a different trip that was taken along the same general cruise track.
 
 ![SSTDiffMapBetterFinal](SSTDiffMapBetterFinal.png)
 
