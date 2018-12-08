@@ -1,5 +1,10 @@
 ---
 title: Project 2
+feature_image: "Project2Feature.png"
+feature_text: |
+  ## Project 2
+  Building Age and Urban Modernization
+  
 ---
 
 ***Further Examining Building Age and Urban Development in Baltimore***
