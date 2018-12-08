@@ -41,7 +41,7 @@ For this project, I continued with my theme of Baltimore City building age, this
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
-### SEA Semester Remote Sensing Project
+### SEA Semester Project
 
 *Teaser image here*
 
