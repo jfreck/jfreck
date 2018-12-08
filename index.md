@@ -7,7 +7,7 @@ title: Justin Freck's GIS Portfolio
 
 ### Project 1 
 
-![It's Fine Alt Text]()
+![It's Fine Alt Text](Project1Teaser.png)
 
 [See more details here.](https://jfreck.github.io/project1/project1.html)
 
@@ -24,7 +24,7 @@ Professor Dillon Mahmoudi (ask on Monday for actual source, as its used a lot)
 
 ### Project 2
 
-![It's Fine Alt Text]()
+![It's Fine Alt Text](Project2Teaser.png)
 
 [See more details here.](https://jfreck.github.io/project2/project2.html)
 
@@ -43,7 +43,7 @@ For this project, I continued with my theme of Baltimore City building age, this
 
 ### SEA Semester Project
 
-*Teaser image here*
+![text](SEAProjectTeaser.png)
 
 [See more details here.](https://jfreck.github.io/SEAproject/SEAproject.html)
 
