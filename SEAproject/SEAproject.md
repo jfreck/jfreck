@@ -1,5 +1,10 @@
 ---
 title: SEA Project
+feature_image: "SEAProjectFeature.png"
+feature_text: |
+  ## SEA Remote Sensing
+  Assessing Satellite Accuracy in the South Pacific
+  
 ---
 
 This past Spring Semester, I participated in a study abroad program called SEA Semester, Oceans and Climate hosted by the Sea Education Association in Wood Hole, MA. It involved six weeks of classes on shore, followed by six weeks sailing across the Pacific Ocean in a 136 foot long schooner called the Robert C. Seamans. During the Shore component, myself and a partner developed a research project based on remote sensing, which we were to finish aboard the ship. Below is our abstract, as well as a link to our full research document.
