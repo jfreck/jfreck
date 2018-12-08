@@ -30,10 +30,10 @@ Professor Dillon Mahmoudi (ask on Monday for actual source, as its used a lot)
 
 For this project, I continued with my theme of Baltimore City building age, this time with the challenge of creating a time based GIF.
 
-<small>__Tools__: QGIS, R</small>
+<small>__Tools__: QGIS, GIMP, Python</small>
 
 <small>__Data__:
-[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
+Dillon Mahmoudi</small>
 
 </div>
 </div>
