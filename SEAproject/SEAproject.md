@@ -12,4 +12,8 @@ This study verified the reliability of three different MODIS/Aqua satellite base
 
 Below are the maps I created to show the difference between satellite values and in-situ values we analyzed.
 
-*images here*
+![something](SST Diff Map Better Final.png)
+
+![something](OCx Diff Map Better Final.png)
+
+![something](GSM Diff Map Better Final.png)
