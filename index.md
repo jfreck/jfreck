@@ -47,7 +47,7 @@ Dillon Mahmoudi</small>
 
 [See more details here.](https://jfreck.github.io/SEAproject/SEAproject.html)
 
-*I'll do a quick writeup and summary. The linked page will feature the abstract of the paper, and perhaps a link to the larger document somewhere else. I will include all of the maps I created for this project.*
+This project was completed during my SEA Semester study abroad trip where I sailed across the South Pacific. We assessed the accuracy of satellite remote sensing in the South Pacific Ocean along our cruise track.
 
 <small>__Tools__: QGIS, Scientific Equipment aboard the Robert C. Seamans Sailing Vessel
 
