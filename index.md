@@ -60,7 +60,7 @@ This project was completed during my SEA Semester study abroad trip where I sail
 
 ### Final Project 
 
-!(RingV1)[finalproject/RingV1.png]
+![RingV1](finalproject/RingV1.png)
 
 [See more details here.](https://jfreck.github.io/finalproject/finalproject.html)
 
