@@ -16,7 +16,7 @@ This project focussed on analyzing some part of Baltimore City Property data and
 <small>__Tools__: QGIS, qgis2threejs plugin, SQL</small>
 
 <small>__Data__: 
-Professor Dillon Mahmoudi
+Dillon Mahmoudi
 
 </div>
 
