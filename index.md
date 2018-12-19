@@ -16,7 +16,7 @@ This project focussed on analyzing some part of Baltimore City Property data and
 <small>__Tools__: QGIS, qgis2threejs plugin, SQL</small>
 
 <small>__Data__: 
-Professor Dillon Mahmoudi (ask on Monday for actual source, as its used a lot)
+Professor Dillon Mahmoudi
 
 </div>
 
@@ -52,7 +52,7 @@ This project was completed during my SEA Semester study abroad trip where I sail
 <small>__Tools__: QGIS, Scientific Equipment aboard the Robert C. Seamans Sailing Vessel
 
 <small>__Data__:
-*Find SEA Database link and put it here.*
+SEA Database
 
 </div>
 
@@ -60,16 +60,16 @@ This project was completed during my SEA Semester study abroad trip where I sail
 
 ### Final Project 
 
-![RingV1](finalproject/RingV1.png)
+![finalteaser](finalproject/finalteaser.png)
 
 [See more details here.](https://jfreck.github.io/finalproject/finalproject.html)
 
-Pellentesque eget mauris vel mi tristique finibus vitae quis massa. Mauris vulputate, nulla vel tincidunt interdum, sem mauris scelerisque neque, suscipit pellentesque felis augue a erat. 
+For my final project, I have revisited my project from my study abroad experience, which you can see in my index under SEA Project. I have given the SST map a visual and statistical overhaul, applying a number of things I learned in this class to this map to make it a more appealing and interesting display of data and information.
 
-<small>__Tools__: QGIS
+<small>__Tools__: QGIS, GIMP, GeoDa
 
 <small>__Data__: 
-*Put data here*
+SEA Database
 
 </div>
 </div>
