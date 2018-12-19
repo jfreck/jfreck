@@ -3,7 +3,8 @@ title: Final Project
 feature_image: "FinalProjectFeature.png"
 feature_text: |
   ## Sea Surface Temperature Satellite Error
-  Assessing Satellite Accuracy in the South Pacific, now with a ***new and improved map***
+  Assessing Satellite Accuracy in the South Pacific
+  now with a ***new and improved map***
   
 ---
 For my final project, I have revisited my project from my study abroad experience, which you can see in my index under SEA Project. I have given the SST map a visual and statistical overhaul, applying a number of things I learned in this class to this map to make it a more appealing and interesting display of data and information. I did remove the data from the S278 cruise track, as the data collected was incomplete at the time of this project. If I had the time, I would go back and reconfigure that set of data to be completely up to date and compare it with the appropriate satellite data.
