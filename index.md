@@ -66,7 +66,7 @@ SEA Database
 
 For my final project, I have revisited my project from my study abroad experience, which you can see in my index under SEA Project. I have given the SST map a visual and statistical overhaul, applying a number of things I learned in this class to this map to make it a more appealing and interesting display of data and information.
 
-<small>__Tools__: QGIS, GIMP, GeoDa
+<small>__Tools__: QGIS, GIMP, GeoDa, Qgis2threejs Plugin
 
 <small>__Data__: 
 SEA Database
